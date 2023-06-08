@@ -3,4 +3,4 @@ z*
 #ignore .env
 .env
 #ignore artifacts
-/artifacts
+/artifacts/
